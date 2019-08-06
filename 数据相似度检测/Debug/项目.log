@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (项目.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TextSimilarity.cpp
+e:\jieba\cppjieba\include\cppjieba\limonp\stringutil.hpp(83): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\documents\visual studio 2015\projects\文本相似度\文本相似度\textsimilarity.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\文本相似度\文本相似度\textsimilarity.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+  test.cpp
+e:\jieba\cppjieba\include\cppjieba\limonp\stringutil.hpp(83): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  项目.vcxproj -> D:\Documents\Visual Studio 2015\Projects\文本相似度\文本相似度\Debug\文本相似度.exe
+  项目.vcxproj -> D:\Documents\Visual Studio 2015\Projects\文本相似度\文本相似度\Debug\文本相似度.pdb (Full PDB)
